@@ -1,0 +1,19 @@
+{
+  "name": "fiction",
+  "version": "1.0.0",
+  "description": "landing page for fiction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/john-0007/fiction.git"
+  },
+  "author": "John Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-0007/fiction/issues"
+  },
+  "homepage": "https://github.com/john-0007/fiction#readme"
+}
