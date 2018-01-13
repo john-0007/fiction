@@ -1,21 +1,21 @@
 {
-  "name": "fiction",
+  "name": "nitours",
   "version": "1.0.0",
-  "description": "landing page for fiction",
+  "description": "landing page for nitours",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/john-0007/fiction.git"
+    "url": "git+ssh://git@github.com/john-0007/nitours.git"
   },
   "author": "John Joseph",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/john-0007/fiction/issues"
+    "url": "https://github.com/john-0007/nitours/issues"
   },
-  "homepage": "https://github.com/john-0007/fiction#readme",
+  "homepage": "https://github.com/john-0007/nitours#readme",
   "dependencies": {
     "node-sass": "^4.7.2"
   }
