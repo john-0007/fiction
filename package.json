@@ -4,7 +4,7 @@
   "description": "landing page for fiction",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/john-0007/fiction/issues"
   },
-  "homepage": "https://github.com/john-0007/fiction#readme"
+  "homepage": "https://github.com/john-0007/fiction#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
 }
